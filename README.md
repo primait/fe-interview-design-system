@@ -24,4 +24,4 @@ pnpm storybook
 
 ## Figma file
 
-The figma file of the home test is available [here](https://www.figma.com/design/OclakAGLSXDoMKLFvwLNMP/%F0%9F%92%BB-Prima-Code-Challenge---Tabs-Component?node-id=0-1&t=4HapgpT4EAuIxz87-1).
+The figma file of the home test is available [here](https://www.figma.com/design/OclakAGLSXDoMKLFvwLNMP/%F0%9F%92%BB-Design-System-Home-Test---Tabs-Component?node-id=0-1&t=4pG7NN6HKxgxroDz-1).
