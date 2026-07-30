@@ -1,0 +1,9 @@
+allowBuilds:
+  '@parcel/watcher': true
+  '@swc/core': true
+  esbuild: true
+
+overrides:
+  rollup: '>=4.59.0'
+  flatted: '>=3.4.2'
+  minimatch: '>=3.1.4'
